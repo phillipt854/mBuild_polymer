@@ -1,0 +1,3 @@
+[mbuild.plugins]
+polymer = mbuild_polymer.mbuild_polymer:polymer_box
+

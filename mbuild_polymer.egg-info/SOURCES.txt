@@ -1,0 +1,8 @@
+README.md
+setup.py
+mbuild_polymer.egg-info/PKG-INFO
+mbuild_polymer.egg-info/SOURCES.txt
+mbuild_polymer.egg-info/dependency_links.txt
+mbuild_polymer.egg-info/entry_points.txt
+mbuild_polymer.egg-info/requires.txt
+mbuild_polymer.egg-info/top_level.txt
