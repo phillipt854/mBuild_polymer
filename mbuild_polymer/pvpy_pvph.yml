@@ -1,0 +1,15 @@
+#yaml file for pvpy and pvph
+pvpy:
+ r0BB: 0.5
+ r0BBHB: 0.37
+ r0HB: 0.2
+ HB_orient: [1, 0, 0]
+ BB_color: red
+ HB_color: yellow
+pvph:
+ r0BB: 0.5
+ r0BBHB: 0.42
+ r0HB: 0.2
+ HB_orient: [1, 0, 0]
+ BB_color: blue
+ HB_color: green
